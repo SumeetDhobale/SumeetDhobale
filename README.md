@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Sumeet Balu Dhobale, a Fourth-year IT Engineering student from Mumbai University.<br>I have hands-on experience with Python, SQL, and web technologies.<br>I have worked on AI-based and data-driven projects.<br>I am a quick learner, team player, and passionate about building practical technology solutions while continuously improving my skills.
+I am Sumeet Balu Dhobale, a Fourth-year IT Engineering student from Mumbai University.<br>I have hands-on experience with Python, SQL, Excel, Power BI and Web Technologies.<br>I have worked on AI-based and data-driven projects.<br>I am a quick learner, team player, and passionate about building practical technology solutions while continuously improving my skills.
 
 
 ## 🌐 Socials:
